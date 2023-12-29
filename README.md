@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElenaIurchenkoMatlas
-- 👀 I’m interested in lerarning more about AI, Chatboots and interractiv programming =)
+- 👀 I’m interested in learning more about AI, Chatboots and interractiv programming =)
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...TBD
 - 📫 How to reach me: linkedin.com/in/el-ena-20b981223 
