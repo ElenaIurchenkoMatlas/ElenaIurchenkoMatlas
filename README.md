@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElenaIurchenkoMatlas
 - 👀 I’m interested in learning more about AI, Chatboots and interractiv programming =)
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on ...TBD
+- 🌱 I’m currently learning on the ReDi School of digital integration
+- 💞️ I’m looking to collaborate on Data Circle Project
 - 📫 How to reach me: linkedin.com/in/el-ena-20b981223 
 
 <!---
